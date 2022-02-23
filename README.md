@@ -24,6 +24,7 @@ NFT를 통해 발생한 수익을 분배하는 "클레이튼 기반의 후원 �
 <br><br>
 
 ## 🙏 Roadmap (TBD)
-<img src="https://user-images.githubusercontent.com/304667/155278951-75d7a7aa-e7d1-4b54-9b34-b44b627e6976.png" width=800px>
-* [wooong begins](https://opensea.io/collection/woong-begins) : 인간스러운(?) 캐릭터가 되기 전의 시대
+<img src="https://user-images.githubusercontent.com/304667/155278951-75d7a7aa-e7d1-4b54-9b34-b44b627e6976.png" width=800px />
+- [wooong begins](https://opensea.io/collection/woong-begins) : 인간스러운(?) 캐릭터가 되기 전의 시대
+
 

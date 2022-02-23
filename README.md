@@ -19,7 +19,7 @@ NFT를 통해 발생한 수익을 분배하는 "클레이튼 기반의 후원 �
 6. 서비스 사용자는 거버넌스 토큰을 스테이킹함으로써 추가 이익을 얻을 수 있습니다.<br>
 <br><br>
 
-## 🤫 System Architecture 0.1
+## 🤫 System Overall 0.1
 <img src="https://user-images.githubusercontent.com/304667/155275166-cc569876-6ef6-482f-b8a8-1bcfd1301c7c.png" width=800px>
 <br><br>
 
